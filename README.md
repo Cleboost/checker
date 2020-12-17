@@ -1,2 +1,2 @@
 # Discord Token Validator
-go to https://kazion1337.github.io/checker/
+go to https://kazion1337.github.io/checker
